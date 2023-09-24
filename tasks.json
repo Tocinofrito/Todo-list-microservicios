@@ -1,0 +1,7 @@
+{
+    "tasks": {
+      "todo": ["Comprar leche", "Redactar tesis"],
+      "completed": ["Lavar el baño"]
+    }
+  }
+  

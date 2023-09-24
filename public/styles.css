@@ -1,0 +1,17 @@
+
+body {
+    background: rgb(245, 245, 245);
+    color: #333333;
+    margin-top: 50px;
+}
+
+.container {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
